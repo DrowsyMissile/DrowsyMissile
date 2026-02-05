@@ -9,7 +9,7 @@ So far i have only built private Projects or worked on closed source Projects fo
 Aside from developing Software, my other 2 focus areas at work are DevOps & training Apprentices.
 
 ---
-##### Currently i am most proficient in Go, Python & React.js.
+#### Currently i am most proficient in Go, Python & React.js.
 
 And i am currently learning about Java, SpringBoot & Gradle.
 
