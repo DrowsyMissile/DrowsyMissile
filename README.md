@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hey there! ✌️
 
-<!--
-**DrowsyMissile/DrowsyMissile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Fabian, a 24 year old Application Developer based in Germany.
 
-Here are some ideas to get you started:
+**I love learning**, a new Programming Language, a new Tool, some intriguing Service, or whatever. If it seems interesting, i want to learn about it.🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So far i have only built private Projects or worked on closed source Projects for my employer, but i want to get into open source.🤝
+
+Aside from developing Software, my other 2 focus areas at work are DevOps & training Apprentices.
+
+---
+
+Currently i am learning about Java, SpringBoot & Gradle.
+
+In these Languages i also feel comfortable working in: Go | JavaScript | HTML | CSS | SQL
+
+I also work with these Tools: n8n | Docker | Asana | JetBrains TeamCity | Obsidian | Postman | Figma | M365
+
+---
+#### More to me.
+
+For my Hobbies:
+- 3D Modeling in Blender
+- Making Music in FL Studio
+- Creating UIs in Figma
+- Video Games
+- Dungeons and Dragons or other Pen and Paper type games
