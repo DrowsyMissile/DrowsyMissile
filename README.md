@@ -10,9 +10,7 @@ Aside from developing Software, my other 2 focus areas at work are DevOps & trai
 
 ---
 
-Currently i am learning about Java, SpringBoot & Gradle.
-
-In these Languages i also feel comfortable working in: Go | JavaScript | HTML | CSS | SQL
+In these Languages i feel most comfortable working in: Go | JavaScript | SQL
 
 I also work with these Tools: n8n | Docker | Asana | JetBrains TeamCity | Obsidian | Postman | Figma | M365
 
