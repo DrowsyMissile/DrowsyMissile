@@ -1,7 +1,7 @@
 ## Hey there! ✌️
-#### I'm Fabian, a 24-year-old Software Developer based in Germany.
+#### I'm Fabian, a 24 year old Software Developer based in Germany.
 
-**I love learning** — whether it's a new programming language, an interesting tool, or some intriguing service. If it seems interesting, I want to learn about it. 🤓
+**I love learning!** whether it's a new programming language, an interesting tool, or some intriguing service. If it seems interesting, I want to learn about it. 🤓
 
 I currently work for a private university in western Germany, where my main area of responsibility is developing internal tools for employees and students.
 
